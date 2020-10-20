@@ -1,6 +1,20 @@
 # vuex-demo
 
-## Project setup
+## Intro to vuex
+
+* [x] What is vuex
+  * Single source of truth (A single store that holds all shared data)
+* [x] state
+  * mapState
+* [x] getters
+  * mapGetters
+* [x] mutations
+  * mapMutations
+* [x] actions
+  * mapActions
+
+## Development Setup
+### Project setup
 ```
 npm install
 ```
@@ -19,6 +33,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
